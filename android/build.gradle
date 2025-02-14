@@ -1,5 +1,3 @@
-package android
-
 group 'flutter.plugins.contactsservice.contactsservice'
 version '1.0-SNAPSHOT'
 
